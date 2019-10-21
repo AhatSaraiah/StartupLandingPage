@@ -1,2 +1,2 @@
 # StartupLandingPage
-Landing Page for skillam website.
+Landing Page for Skillam website.
